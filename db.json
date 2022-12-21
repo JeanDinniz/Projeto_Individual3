@@ -1,0 +1,99 @@
+{
+    "clientes": [
+      {
+        "id": 0,
+        "primeiro_nome": "Gustavo",
+        "segundo_nome": "Silva",
+        "email": "gustavo021@gmail.com",
+        "celular": "(21) 91000-0000"
+      },
+      {
+        "id": 1,
+        "primeiro_nome": "Juan",
+        "segundo_nome": "Lima",
+        "email": "juan09@gmail.com",
+        "celular": "(21) 91000-0000"
+      },
+      {
+        "id": 2,
+        "primeiro_nome": "Sebastiao",
+        "segundo_nome": "Oliveira",
+        "email": "sebastiao32@gmail.com",
+        "celular": "(21) 91000-0000"
+      },
+      {
+        "id": 3,
+        "primeiro_nome": "Adriana",
+        "segundo_nome": "Araujo",
+        "email": "adriana011@gmail.com",
+        "celular": "(21) 91000-0000"
+      },
+      {
+        "id": 4,
+        "primeiro_nome": "Matheus",
+        "segundo_nome": "Macedo",
+        "email": "matheusm40@gmail.com",
+        "celular": "(21) 91000-0000"
+      }
+    ],
+
+    "produtos": [
+      {
+        "id": 0,
+        "dispositivo": "Teclado",
+        "marca": "Hyperx",
+        "valor": "R$ 450,00"
+      },
+      {
+        "id": 1,
+        "dispositivo": "Mouse",
+        "marca": "Redragon",
+        "valor": "R$ 130,00"
+      },
+      {
+        "id": 2,
+        "dispositivo": "M0nitor 144hz",
+        "marca": "AOC",
+        "valor": "R$ 1800,00"
+      },
+      {
+        "id": 3,
+        "dispositivo": "MousePad",
+        "marca": "Logitech",
+        "valor": "R$ 90,90"
+      }
+    ],
+
+    "empresas_de_frete": [
+      {
+        "id": 0,
+        "empresa": "Sedex",
+        "regioes_operantes": "Sudeste",
+        "taxa_de_entrega": "R$ 80,00"
+      },
+      {
+        "id": 1,
+        "empresa": "Loggi",
+        "regioes_operantes": "Sul",
+        "taxa_de_entrega": "R$ 30,00"
+      },
+      {
+        "id": 2,
+        "empresa": "Correios",
+        "regioes_operantes": "Centro Oeste",
+        "taxa_de_entrega": "R$ 70,00"
+      },
+      {
+        "id": 3,
+        "empresa": "Mercado Livre",
+        "regioes_operantes": "Nordeste",
+        "taxa_de_entrega": "R$ 90,00"
+      },
+      {
+        "id": 4,
+        "empresa": "Amazon",
+        "regioes_operantes": "Norte",
+        "taxa_de_entrega": "R$ 100,00"
+      }
+    ]
+  }
